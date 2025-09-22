@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Meu Primeiro Dashboard 🚀")
-st.write("Se você está vendo isso no navegador, o Streamlit está funcionando!")
+st.title("AdventureWorks Sales Dashboard")
+st.write("Interactive dashboard to explore sales performance by date, product, and region.")
 
 import pandas as pd
 import streamlit as st
@@ -75,3 +75,6 @@ with col2:
     ax2.tick_params(axis="x", rotation=45)
     ax2.grid(True)
     st.pyplot(fig2, clear_figure=True)
+Update dashboard title and description
+
+
