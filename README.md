@@ -12,7 +12,7 @@ It allows filtering by **date**, **product**, and **region**, and provides:
 
 ## Live Demo
 
-👉 [Click here to access the live dashboard](https://YOUR-LINK-HERE.streamlit.app)
+👉 [Click here to access the live dashboard](https://hexagon-sig-dashboard-indmtrxuwglpkfbxoa5qfe.streamlit.app/)
 
 ---
 
